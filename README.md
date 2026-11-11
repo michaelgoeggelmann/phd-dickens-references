@@ -194,6 +194,10 @@ requires the corresponding corpus and annotation version as well as the relevant
 model and prediction artefacts. A code checkout alone does not contain these
 materials.
 
+## AI Assistance
+
+The README files in this repository were drafted with the assistance of generative AI. Their content was reviewed and verified by the author for accuracy and consistency with the original code and dissertation.
+
 ## Citation
 
 Please cite the dissertation when using this code.
